@@ -29,7 +29,7 @@ This script automates the process of upgrading the Python version used by OctoPr
 
     ```bash
     # Example: If you're on your Raspberry Pi, you might use wget or curl
-    # wget https://your-repository/upgrade_octoprint_python.sh
+    # wget https://github.com/syntax1269/OctoPrint-Python-Upgrade-Script/blob/main/upgrade_octoprint_python.sh
     # chmod +x upgrade_octoprint_python.sh
     ```
 
